@@ -1,6 +1,6 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: rgb(17, 230, 219);
-  }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(17, 230, 219);
+}
