@@ -13,7 +13,7 @@ const lists = [{
   bool: 'false',
   index: '2',
 }, {
-  description: 'You can do it JAMES ',
+  description: 'You can do it James ',
   bool: 'false',
   index: '3',
 }];
