@@ -39,7 +39,7 @@ Deployment
 copy the url to your local []
 
 ### Live Demo 
-[Live Demo]()
+[Live Demo](https://jaamanu.github.io/TO-DO-LIST-WEBAPP/dist/)
 
 ## JAMES ASIBEY MANU
 
