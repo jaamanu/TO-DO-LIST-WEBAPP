@@ -1,6 +1,5 @@
 import './style.css';
 
-const form = document.querySelector('form');
 const todoContainer = document.querySelector('.todoContainer');
 
 const lists = [{
@@ -19,15 +18,12 @@ const lists = [{
 }];
 
 lists.forEach((task) => {
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const ul = document.createElement('ul');
-    const hr = document.createElement('hr');
-    ul.innerHTML = `
+  const ul = document.createElement('ul');
+  const hr = document.createElement('hr');
+  ul.innerHTML = `
     <li>
     <input class="checkBox" type="checkbox">${task.description}<i class="fa-solid fa-ellipsis-vertical dots"></i>
     </li>
     `;
-    todoContainer.append(ul, hr);
-  });
+  todoContainer.append(ul, hr);
 });
