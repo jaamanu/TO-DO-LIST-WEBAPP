@@ -75,7 +75,7 @@ const addTask = (todo) => {
   trueFalse();
 };
 Array.prototype.forEach.call(todos, addTask);
- deleteItems();
+deleteItems();
 
 const editTodoList = () => {
   const editInput = document.querySelectorAll('.newInput');
