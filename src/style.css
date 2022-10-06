@@ -6,10 +6,9 @@ body {
 }
 
 .container {
-  border: 2px solid #e4cfcf;
-  box-shadow: 20px 20px 50px 25px grey;
+  border: 2px solid black;
   padding: 20px 0 0 0;
-  height: 100vh;
+  height: 50vh;
   width: 500px;
   position: relative;
   overflow: auto;
@@ -21,6 +20,7 @@ body {
   border: none;
   outline: none;
   margin: 0 3%;
+  font-style: italic;
 }
 
 .todoHeader {
@@ -54,6 +54,19 @@ body {
   padding: 12px 0;
   font-style: italic;
   color: #2e2d2d;
+  cursor: pointer;
+}
+
+.align {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.formBtn {
+  background-color: #fff;
+  border: 1px hidden;
+  margin-right: 10px;
 }
 
 .clear {
@@ -85,4 +98,11 @@ body {
 
 .add.done {
   text-decoration: line-through;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+  font-style: italic;
+  font-weight: lighter;
 }
