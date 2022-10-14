@@ -1,5 +1,3 @@
-
-
 import localStorageMock from '../__mock__/storageMock.js';
 
 export default class Tasks {
