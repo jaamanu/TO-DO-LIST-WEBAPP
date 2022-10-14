@@ -49,10 +49,10 @@ copy the url to your local [https://github.com/jaamanu/TO-DO-LIST-WEBAPP.git]
 -Twitter:(https://twitter.com/JamesAsibeyManu)
 -LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
-IRADUKUNDA Pacific Rugwizangoga
+## IRADUKUNDA Pacific Rugwizangoga
 
-- GitHub: [@githubhandle](https://github.com/rugwizangoga)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
+-GitHub: [@githubhandle](https://github.com/rugwizangoga)
+-LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
 ## 🤝 Contributing
 
