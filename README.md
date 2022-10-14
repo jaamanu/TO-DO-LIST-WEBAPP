@@ -29,10 +29,12 @@ Navigate to the folder called to-do-list Structure and open this project using y
 ### Prerequisites
 Run tests
 These were linter tests mainly
+
 For css, run npx hint .
-Html, run npx stylelint "\*_/_.{css,scss}"
+Html, run npx stylelint "**/*.{css,scss}"
 Javascript npx eslint .
-Deployment
+Run automated functionality test
+To check for functionality with automated test run npm test
 
 
 ### Setup
